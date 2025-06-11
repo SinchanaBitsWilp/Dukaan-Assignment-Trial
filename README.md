@@ -9,11 +9,11 @@ This project is being built as part of the **Software Engineering** under the BI
 In today's digital age, local businesses often struggle to compete with large e-commerce platforms due to lack of digital presence and delivery systems. Dukaan aims to **digitally empower local vendors**, streamline communication between all stakeholders, and offer a **location-based platform** for shopkeepers, customers, and delivery partners to interact.
 
 # Group Details (Below details are updated by respective team member)
--Sinchana Shetty --> 2023lm70047 --> Project Manager, Tester
--Zishan Alam --> --> 
--John Mathew --> --> 
--Saranya T --> --> 
--Helen Jenifer --> -->
+**Sinchana Shetty** --> 2023lm70047 --> Project Manager, Tester
+**Zishan Alam** --> --> 
+**John Mathew** --> --> 
+**Saranya T** --> --> 
+**Helen Jenifer** --> -->
 
 # Current Phase: Design & Planning
 We are currently creating **UI design** for the login screen that supports login for three roles:
